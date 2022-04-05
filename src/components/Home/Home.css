@@ -1,0 +1,14 @@
+.hero-area{
+    display: flex;
+}
+.color-heading{
+    color: purple;
+    font-size: 70px;
+    font-weight: 800;
+    margin: 0;
+}
+h1{
+    font-size: 70px;
+    font-weight: 800;
+    /* margin-top: 20px; */
+}

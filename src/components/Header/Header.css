@@ -1,0 +1,10 @@
+nav{
+    margin: 20px 0;
+}
+nav a{
+    text-decoration: none;
+    margin-right: 40px;
+    color: purple;
+    font-size: x-large;
+    font-weight: 600;
+}
