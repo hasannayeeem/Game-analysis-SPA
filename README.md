@@ -7,9 +7,9 @@ Click here for [Game reviews website](https://gamereview.netlify.app).
 Click here: [https://gamesreview.netlify.app](https://gamesreview.netlify.app)
 
 
-### `adding header`
+* `adding header`
 in this website have a header section
-### `adding rechart`
+- `adding rechart`
 in this website at dashboard two chart added
 ### `adding routes and route`
 in this website use many many for routing from react router dom
