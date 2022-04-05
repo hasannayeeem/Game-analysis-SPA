@@ -1,9 +1,13 @@
 import React from 'react';
+import FirstChart from '../FirstChart/FirstChart';
+import SpecialChart from '../SpecialChart/SpecialChart';
 
 const Dashboard = () => {
     return (
         <div>
-            <h1>this is db</h1>
+            <h2>Normal Chart</h2>
+            <FirstChart></FirstChart>
+            <SpecialChart></SpecialChart>
         </div>
     );
 };
